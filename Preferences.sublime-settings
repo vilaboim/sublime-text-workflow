@@ -1,0 +1,28 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": " ",
+			"selector": "text.html meta.tag"
+		}
+	],
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_sidebar_tree_xsmall": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_large": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme"
+}
