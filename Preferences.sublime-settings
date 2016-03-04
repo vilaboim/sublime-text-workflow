@@ -11,7 +11,6 @@
 			"selector": "text.html meta.tag"
 		}
 	],
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"enable_tab_scrolling": false,
 	"font_size": 12,
 	"ignored_packages":
@@ -24,5 +23,6 @@
 	"spacegray_tabs_font_large": true,
 	"spacegray_tabs_large": true,
 	"tab_size": 2,
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 }
