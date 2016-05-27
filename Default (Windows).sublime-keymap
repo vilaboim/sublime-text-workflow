@@ -1,9 +1,0 @@
-[
-	{
-		"keys": ["ctrl+alt+n"],
-		"command": "advanced_new_file_new",
-		"args": {
-			"is_python": false
-		}
-	}
-]
