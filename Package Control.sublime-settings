@@ -20,6 +20,7 @@
 		"EasyDiff",
 		"EditorConfig",
 		"Emmet",
+		"GitGutter",
 		"HTML Boilerplate",
 		"HTML5",
 		"Inc-Dec-Value",
@@ -42,6 +43,7 @@
 		"Syntax Highlighting for Sass",
 		"Terminal",
 		"TrailingSpaces",
+		"Vue Syntax Highlight",
 		"WordPress"
 	]
 }
