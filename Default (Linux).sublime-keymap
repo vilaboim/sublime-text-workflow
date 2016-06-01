@@ -1,3 +1,5 @@
 [
 	{ "keys": ["ctrl+f1"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+  { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
 ]
