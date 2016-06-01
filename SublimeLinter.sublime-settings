@@ -1,0 +1,26 @@
+{
+    "user": {
+        "lint_mode": "load/save",
+        "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jsxhint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "show_errors_on_save": true
+    }
+}
