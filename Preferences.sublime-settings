@@ -25,7 +25,7 @@
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
