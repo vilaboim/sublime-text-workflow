@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+f1"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-  { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
-  { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["ctrl+alt+n"], "command": "advanced_new_file_new"},
+    { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+    { "keys": ["alt+down"],       "command": "inc_dec_value", "args": { "action": "dec_min" } }
 ]
